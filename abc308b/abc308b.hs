@@ -1,15 +1,13 @@
 import Control.Applicative
+import Control.Monad
 
 main :: IO ()
-main = solve <$> f >>= putStrLn
+main = getLine >> solve <$> f <*> f <*> g >>= print
   where
-    f = map read <$> words <$> getLine
+    f = words <$> getLine
+    g = map read <$> f
 
-solve :: [Int] -> String
-solve as
-  | c1 && c2 && c3 = "Yes"
-  | otherwise = "No"
+solve :: [String] -> [String] -> [Int] -> Int
+solve cs ds (p:ps) = sum $ map (maybe p id . flip lookup tbl) cs
   where
-    c1 = and $ zipWith (<=) as $ tail as
-    c2 = all (\x -> 100 <= x && x <= 675) as
-    c3 = all ((== 0) . (flip mod 25)) as
+    tbl = zip ds ps
