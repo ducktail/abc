@@ -2,6 +2,7 @@
 
 |contest|code|
 |-------|----|
+|abc282c|[haskell](/abc282c/abc282c.hs)<br>[scheme](/abc282c/abc282c.scm)|
 |abc283c|[haskell](/abc283c/abc283c.hs)<br>[scheme](/abc283c/abc283c.scm)<br>[ocaml](/abc283c/abc283c.ml)|
 |abc297c|[haskell](/abc297c/abc297c.hs)<br>[scheme](/abc297c/abc297c.scm)|
 |abc308b|[haskell](/abc308b/abc308b.hs)<br>[scheme](/abc308b/abc308b.scm)<br>[ocaml](/abc308b/abc308b.ml)|
