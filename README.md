@@ -15,3 +15,5 @@
 |abc314a|[haskell](/abc314a/abc314a.hs)<br>[scheme](/abc314a/abc314a.scm)<br>[ocaml](/abc314a/abc314a.ml)<br>[dc](/abc314a/abc314a.dc)|
 |abc315a|[haskell](/abc315a/abc315a.hs)<br>[scheme](/abc315a/abc315a.scm)<br>[ocaml](/abc315a/abc315a.ml)|
 |abc315b|[haskell](/abc315b/abc315b.hs)<br>[scheme](/abc315b/abc315b.scm)<br>[ocaml](/abc315b/abc315b.ml)|
+|abc317a|[haskell](/abc317a/abc317a.hs)<br>[scheme](/abc317a/abc317a.scm)<br>[ocaml](/abc317a/abc317a.ml)<br>[dc](/abc317a/abc317a.dc)|
+|abc317b|[haskell](/abc317b/abc317b.hs)<br>[scheme](/abc317b/abc317b.scm)<br>[ocaml](/abc317b/abc317b.ml)|
