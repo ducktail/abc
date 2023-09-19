@@ -21,3 +21,4 @@
 |abc318b|[haskell](/abc318b/abc318b.hs)<br>[scheme](/abc318b/abc318b.scm)<br>[ocaml](/abc318b/abc318b.ml)|
 |abc319a|[haskell](/abc319a/abc319a.hs)<br>[scheme](/abc319a/abc319a.scm)<br>[ocaml](/abc319a/abc319a.ml)|
 |abc319b|[haskell](/abc319b/abc319b.hs)<br>[scheme](/abc319b/abc319b.scm)|
+|abc320a|[haskell](/abc320a/abc320a.hs)<br>[scheme](/abc320a/abc320a.scm)<br>[ocaml](/abc320a/abc320a.ml)<br>[dc](/abc320a/abc320a.dc)|
