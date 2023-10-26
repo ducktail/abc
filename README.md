@@ -29,5 +29,6 @@
 |abc322a|[haskell](/abc322a/abc322a.hs)<br>[scheme](/abc322a/abc322a.scm)<br>[ocaml](/abc322a/abc322a.ml)|
 |abc322b|[haskell](/abc322b/abc322b.hs)<br>[scheme](/abc322b/abc322b.scm)<br>[ocaml](/abc322b/abc322b.ml)|
 |abc323a|[haskell](/abc323a/abc323a.hs)<br>[scheme](/abc323a/abc323a.scm)<br>[ocaml](/abc323a/abc323a.ml)<br>[dc](/abc323a/abc323a.dc)<br>[brainfuck](/abc323a/abc323a.bf)|
+|abc323b|[haskell](/abc323b/abc323b.hs)<br>[scheme](/abc323b/abc323b.scm)<br>[ocaml](/abc323b/abc323b.ml)|
 |abc324a|[haskell](/abc324a/abc324a.hs)<br>[scheme](/abc324a/abc324a.scm)<br>[ocaml](/abc324a/abc324a.ml)<br>[dc](/abc324a/abc324a.dc)<br>[brainfuck](/abc324a/abc324a.bf)|
 |abc325a|[haskell](/abc325a/abc325a.hs)<br>[scheme](/abc325a/abc325a.scm)<br>[ocaml](/abc325a/abc325a.ml)<br>[brainfuck](/abc325a/abc325a.bf)|
