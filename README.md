@@ -33,3 +33,4 @@
 |abc324a|[haskell](/abc324a/abc324a.hs)<br>[scheme](/abc324a/abc324a.scm)<br>[ocaml](/abc324a/abc324a.ml)<br>[dc](/abc324a/abc324a.dc)<br>[brainfuck](/abc324a/abc324a.bf)|
 |abc325a|[haskell](/abc325a/abc325a.hs)<br>[scheme](/abc325a/abc325a.scm)<br>[ocaml](/abc325a/abc325a.ml)<br>[brainfuck](/abc325a/abc325a.bf)|
 |abc326a|[haskell](/abc326a/abc326a.hs)<br>[scheme](/abc326a/abc326a.scm)<br>[ocaml](/abc326a/abc326a.ml)<br>[dc](/abc326a/abc326a.dc)<br>[brainfuck](/abc326a/abc326a.bf)|
+|abc327a|[haskell](/abc327a/abc327a.hs)<br>[scheme](/abc327a/abc327a.scm)<br>[ocaml](/abc327a/abc327a.ml)|
