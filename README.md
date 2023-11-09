@@ -1,7 +1,7 @@
 # AtCoder Beginner Contest
 
-|contest|code|haskell|scheme|ocaml|dc|brainfuck|
-|-------|----|-------|------|-----|--|---------|
+|contest|haskell|scheme|ocaml|dc|brainfuck|
+|-------|-------|------|-----|--|---------|
 |abc282c|[abc282c.hs](/abc282c/abc282c.hs)|[abc282c.scm](/abc282c/abc282c.scm)||||
 |abc283c|[abc283c.hs](/abc283c/abc283c.hs)|[abc283c.scm](/abc283c/abc283c.scm)|[abc283c.ml](/abc283c/abc283c.ml)|||
 |abc285b|[abc285b.hs](/abc285b/abc285b.hs)|[abc285b.scm](/abc285b/abc285b.scm)||||
