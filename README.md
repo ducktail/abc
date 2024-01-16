@@ -51,3 +51,4 @@
 |abc333b|[abc333b.hs](/abc333b/abc333b.hs)|[abc333b.scm](/abc333b/abc333b.scm)|[abc333b.ml](/abc333b/abc333b.ml)|||
 |abc334a|[abc334a.hs](/abc334a/abc334a.hs)|[abc334a.scm](/abc334a/abc334a.scm)|[abc334a.ml](/abc334a/abc334a.ml)|[abc334a.dc](/abc334a/abc334a.dc)||
 |abc335a|[abc335a.hs](/abc335a/abc335a.hs)|[abc335a.scm](/abc335a/abc335a.scm)|[abc335a.ml](/abc335a/abc335a.ml)||[abc335a.bf](/abc335a/abc335a.bf)|
+|abc336a|[abc336a.hs](/abc336a/abc336a.hs)|[abc336a.scm](/abc336a/abc336a.scm)|[abc336a.ml](/abc336a/abc336a.ml)|[abc336a.dc](/abc336a/abc336a.dc)||
