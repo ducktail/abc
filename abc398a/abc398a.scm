@@ -1,0 +1,10 @@
+(define (solve n)
+  (let1 s (make-string n #\-)
+        (string-set! s (quotient n 2) #\=)
+        (cond [(even? n) (string-set! s (- (quotient n 2) 1) #\=)])
+        s))
+
+(define (main args)
+  (let1 n (read)
+        (print (solve n)))
+  0)
